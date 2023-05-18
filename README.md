@@ -19,4 +19,4 @@ npm install
 
 ng serve
 
-![Logo](https://raw.githubusercontent.com/id1945/microfrontend-angular-with-react-host/master/mfe.png)
+![Logo](https://raw.githubusercontent.com/id1945/microfrontend-webpack-angular-with-react-host/master/mfe.png)
