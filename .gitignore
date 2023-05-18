@@ -3,6 +3,7 @@
 # compiled output
 /mfe-host/dist
 /mfe-remote/dist
+/mfe-remote/.angular
 ./.../tmp
 ./.../out-tsc
 
