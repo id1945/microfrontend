@@ -18,3 +18,5 @@ mfe-remote [Angular]
 npm install
 
 ng serve
+
+![Logo](https://raw.githubusercontent.com/id1945/microfrontend-angular-with-react-host/master/mfe.png)
