@@ -27,3 +27,6 @@ npm i webpack webpack-cli webpack-dev-server -D
 
 npm i copy-webpack-plugin --save
 ```
+
+![angular](https://raw.githubusercontent.com/id1945/microfrontend/mfe-webpack-react-with-angular-host/mfe-angular.png)
+![react](https://raw.githubusercontent.com/id1945/microfrontend/mfe-webpack-react-with-angular-host/mfe-react.png)
