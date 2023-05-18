@@ -1,12 +1,14 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-./.../dist
+/mfe-host/dist
+/mfe-remote/dist
 ./.../tmp
 ./.../out-tsc
 
 # dependencies
-./.../node_modules
+/mfe-host/node_modules
+/mfe-remote/node_modules
 
 # IDEs and editors
 ./.../.idea
